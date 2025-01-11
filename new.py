@@ -138,7 +138,7 @@ def validate_ip(ip):
 
 # Main Function
 def main():
-    BOT_TOKEN = "7542386978:AAE6sDxkQqMozKslX-tW9gcYZlbXTvSAYkU"
+    BOT_TOKEN = "7840508846:AAEavG8QYkF2c5lvliwFRyGqsa_JP6zA-P0"
 
     app = ApplicationBuilder().token(BOT_TOKEN).build()
 
